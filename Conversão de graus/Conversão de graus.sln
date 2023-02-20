@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversão de graus", "Conversão de graus\Conversão de graus.csproj", "{878579BC-9E83-494E-AF37-A7D52ED6773B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878579BC-9E83-494E-AF37-A7D52ED6773B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878579BC-9E83-494E-AF37-A7D52ED6773B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878579BC-9E83-494E-AF37-A7D52ED6773B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878579BC-9E83-494E-AF37-A7D52ED6773B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38ABD18-FA7C-4BCC-B39F-0BD18766D074}
+	EndGlobalSection
+EndGlobal
