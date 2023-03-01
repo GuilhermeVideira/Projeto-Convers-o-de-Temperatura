@@ -1,0 +1,11 @@
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\bin\Debug\Conversao de temperatura.exe.config
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\bin\Debug\Conversao de temperatura.exe
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\bin\Debug\Conversao de temperatura.pdb
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\obj\Debug\Conversao de temperatura.csproj.AssemblyReference.cache
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\obj\Debug\Conversao de temperatura.csproj.SuggestedBindingRedirects.cache
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\obj\Debug\Conversao_de_temperatura.Form1.resources
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\obj\Debug\Conversao_de_temperatura.Properties.Resources.resources
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\obj\Debug\Conversao de temperatura.csproj.GenerateResource.cache
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\obj\Debug\Conversao de temperatura.csproj.CoreCompileInputs.cache
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\obj\Debug\Conversao de temperatura.exe
+C:\Users\PHPM\Source\Repos\Conversao de temperatura\Conversao de temperatura\obj\Debug\Conversao de temperatura.pdb
